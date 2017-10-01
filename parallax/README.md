@@ -1,4 +1,4 @@
-# playstore-template-react
+# parallax
 
 ## Credits
 
